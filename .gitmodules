@@ -1,3 +1,6 @@
 [submodule "dev/xerxes"]
 	path = dev/xerxes
 	url = https://github.com/isdrupter/xerxes.git
+[submodule "dev/Pyrit"]
+	path = dev/Pyrit
+	url = git@github.com:JPaulMora/Pyrit.git
