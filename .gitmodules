@@ -1,0 +1,3 @@
+[submodule "dev/xerxes"]
+	path = dev/xerxes
+	url = https://github.com/isdrupter/xerxes.git
