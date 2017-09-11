@@ -4,3 +4,6 @@
 [submodule "dev/Pyrit"]
 	path = dev/Pyrit
 	url = git@github.com:JPaulMora/Pyrit.git
+[submodule "dev/SecLists"]
+	path = dev/SecLists
+	url = git@github.com:danielmiessler/SecLists.git
