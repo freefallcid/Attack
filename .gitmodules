@@ -28,3 +28,6 @@
 [submodule "dev/instagram-py"]
 	path = dev/instagram-py
 	url = git@github.com:deathsec/instagram-py.git
+[submodule "dev/wifijammer"]
+	path = dev/wifijammer
+	url = git@github.com:DanMcInerney/wifijammer.git
