@@ -10,3 +10,6 @@
 [submodule "dev/SecLists"]
 	path = dev/SecLists
 	url = git@github.com:danielmiessler/SecLists.git
+[submodule "dev/hashcat"]
+	path = dev/hashcat
+	url = https://github.com/hashcat/hashcat.git
