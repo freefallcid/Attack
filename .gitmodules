@@ -16,3 +16,6 @@
 [submodule "dev/hashID"]
 	path = dev/hashID
 	url = git@github.com:psypanda/hashID.git
+[submodule "dev/upc_keys-lambda"]
+	path = dev/upc_keys-lambda
+	url = git@github.com:spaze/upc_keys-lambda.git
