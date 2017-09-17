@@ -9,16 +9,14 @@ then
 fi
 
 ifconfig $WLAN down
-#macchanger -A $WLAN
 iw reg set BO
-#ifconfig $WLAN up
+ifconfig $WLAN up
 iwconfig $WLAN channel 13
 iwconfig $WLAN txpower 30
 iwconfig $WLAN rate 1M
 #airmon-ng start $WLAN
-#ifconfig ${WLAN}mon down
+ifconfig ${WLAN} down
 #macchanger -A ${WLAN}mon
 #ifconfig ${WLAN}mon up
-
 macchanger -A ${WLAN}
 ifconfig ${WLAN} up
