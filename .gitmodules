@@ -25,3 +25,6 @@
 [submodule "dev/Instagram"]
 	path = dev/Instagram
 	url = git@github.com:Ethical-H4CK3R/Instagram.git
+[submodule "dev/instagram-py"]
+	path = dev/instagram-py
+	url = git@github.com:deathsec/instagram-py.git
