@@ -13,3 +13,6 @@
 [submodule "dev/hashcat"]
 	path = dev/hashcat
 	url = https://github.com/hashcat/hashcat.git
+[submodule "dev/hashID"]
+	path = dev/hashID
+	url = git@github.com:psypanda/hashID.git
