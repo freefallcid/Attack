@@ -19,3 +19,6 @@
 [submodule "dev/upc_keys-lambda"]
 	path = dev/upc_keys-lambda
 	url = git@github.com:spaze/upc_keys-lambda.git
+[submodule "dev/cupp"]
+	path = dev/cupp
+	url = git@github.com:Mebus/cupp.git
