@@ -1,0 +1,16 @@
+# GIT CLONING INTO LOCAL FILESYSTEM
+
+* Create and enter directory where you want the contents copied
+	mkdir /root/Attack/Stick
+	cd /root/Attack/Stick
+
+* Clone into that directory
+	git clone /media/root/TRANSCEND32/Attack/ .
+
+* Update that directory with the stick stuff
+	git fetch / merge
+
+* Manually check the file 'wardrive.db' (>10GB) as the file
+  is too big to always check it via git
+
+* 

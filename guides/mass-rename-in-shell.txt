@@ -1,0 +1,10 @@
+https://debian-administration.org/article/150/Easily_renaming_multiple_files.
+
+http://stackoverflow.com/questions/2372719/using-sed-to-mass-rename-files
+
+
+for file in F0000*
+do
+    echo mv "$file" "${file/#F0000/F000}"
+    # ${file/#F0000/F000} means replace the pattern that starts at beginning of string
+done

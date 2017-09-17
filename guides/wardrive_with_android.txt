@@ -1,0 +1,19 @@
+- start BlueNMEA app on phone
+
+- forward gps to adb device after connecting via usb
+  
+    adb forward tcp:4352 tcp:4352
+
+    dpkg --add-architecture i386 && apt-get update && apt-get install ia32-libs lib32ncurses5
+
+- start gps daemon
+
+    gpsd -N -n -D5 tcp://localhost:4352
+
+- get data from xml with giskismet
+
+    giskismet -x Kismet-DATE***.netxml
+
+    giskismet -q "SELECT * FROM WIRELESS" -o output.kml
+
+- open kml file with google earth
