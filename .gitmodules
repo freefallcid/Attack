@@ -22,3 +22,6 @@
 [submodule "dev/cupp"]
 	path = dev/cupp
 	url = git@github.com:Mebus/cupp.git
+[submodule "dev/Instagram"]
+	path = dev/Instagram
+	url = git@github.com:Ethical-H4CK3R/Instagram.git
