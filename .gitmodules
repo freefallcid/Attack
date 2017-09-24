@@ -31,3 +31,6 @@
 [submodule "dev/wifijammer"]
 	path = dev/wifijammer
 	url = git@github.com:DanMcInerney/wifijammer.git
+[submodule "dev/hashcat-utils"]
+	path = dev/hashcat-utils
+	url = git@github.com:hashcat/hashcat-utils.git
