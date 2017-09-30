@@ -34,3 +34,6 @@
 [submodule "dev/hashcat-utils"]
 	path = dev/hashcat-utils
 	url = git@github.com:hashcat/hashcat-utils.git
+[submodule "dev/macphish"]
+	path = dev/macphish
+	url = git@github.com:cldrn/macphish.git
