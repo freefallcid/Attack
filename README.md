@@ -1,4 +1,6 @@
 # Attack
 :computer: :bomb: Attack Folder for Pentesting
 
-Wordlists are not shown here. Find some interesting stuff here: <https://github.com/danielmiessler/SecLists>
+My private wordlists are not shared here. Refer to the collected public section in `wordlists/pub` for some nice to have wordlists.
+
+Some more wordlists are availaible at <https://github.com/danielmiessler/SecLists>.
