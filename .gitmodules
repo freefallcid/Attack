@@ -40,3 +40,6 @@
 [submodule "dev/xerosploit"]
 	path = dev/xerosploit
 	url = git@github.com:LionSec/xerosploit.git
+[submodule "dev/FakeIndex"]
+	path = dev/FakeIndex
+	url = git@github.com:laykatz/FakeIndex.git
