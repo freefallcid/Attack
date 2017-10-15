@@ -37,3 +37,6 @@
 [submodule "dev/macphish"]
 	path = dev/macphish
 	url = git@github.com:cldrn/macphish.git
+[submodule "dev/xerosploit"]
+	path = dev/xerosploit
+	url = git@github.com:LionSec/xerosploit.git
